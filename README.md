@@ -1,9 +1,7 @@
 This project is centered on the practical implementation of VPN configurations, utilizing
  ip xfrm as the primary VPN solution. Additionally, Linux namespaces will be employed to
- 
  construct and manage a complex network topology within a Kali Linux virtual machine.
  The goal is to create a comprehensive example that covers all potential VPN configuration
- 
  scenarios, demonstrating the versatility and functionality of VPN technologies in a controlled
  environment.
 
